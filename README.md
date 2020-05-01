@@ -1,2 +1,2 @@
-# This is a java awt project
+# Java AWT project to manage employees at a company named ABS Corp
 updating soon
