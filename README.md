@@ -1,7 +1,7 @@
 > Java AWT project to manage employees at a company named ABS Corp
 # Running the Project
 
-Then download and unzip the repository by cloning or downloading the repo
+Download and unzip the repository by cloning or downloading the repo
 
 Then import the project as zip to java netbeans IDE. 
 > project zip folder name is ABScorp
