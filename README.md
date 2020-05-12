@@ -18,7 +18,7 @@ Then change the database password at Connection line in db.java file
 
 With the culomn requirement as follows
 ```
-    empID   	int(11)
+	empID   	int(11)
 	username	varchar(45) PK
 	Password	varchar(45)
 	Salary	varchar(45)
@@ -31,5 +31,5 @@ With the culomn requirement as follows
 	email	varchar(50)
 	contact	varchar(15)
 	status	varchar(45)
-	supervisor	varchar(45
+	supervisor	varchar(45)
 ```
