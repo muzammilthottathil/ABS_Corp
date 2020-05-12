@@ -33,3 +33,6 @@ With the culomn requirement as follows
 	status		varchar(45)
 	supervisor	varchar(45)
 ```
+In the supervisor column left as empty for employee with position = Supervisor
+
+and supervisor username in supervisor column for employee with position = Associate
