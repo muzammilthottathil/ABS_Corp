@@ -13,5 +13,23 @@ Then add MySQL jar file in the Library folder inside ABScorp project folder in N
 Then change the database password at Connection line in db.java file
 > Replacing "Password@123" to "YOUR PASSWORD"
 
-# Database Requirement
-Updating soon
+# MySQL Database
+> Create a new schema and name it as ABS_Corp
+
+With the culomn requirement as follows
+```
+    empID   	int(11)
+	username	varchar(45) PK
+	Password	varchar(45)
+	Salary	varchar(45)
+	pos	varchar(45)
+	firstName	varchar(45)
+	lastName	varchar(45)
+	age	int(11)
+	gender	varchar(45)
+	dob	varchar(15)
+	email	varchar(50)
+	contact	varchar(15)
+	status	varchar(45)
+	supervisor	varchar(45
+```
